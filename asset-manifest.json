@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gisso/static/css/main.0e6bd589.css",
+    "main.css": "/gisso/static/css/main.65031c90.css",
     "main.js": "/gisso/static/js/main.d77cc231.js",
     "static/media/bg6.jpg": "/gisso/static/media/bg6.dc603b7416966b84ac68.jpg",
     "static/media/bg1.jpg": "/gisso/static/media/bg1.71a28027225b8ae945bb.jpg",
@@ -26,7 +26,7 @@
     "index.html": "/gisso/index.html"
   },
   "entrypoints": [
-    "static/css/main.0e6bd589.css",
+    "static/css/main.65031c90.css",
     "static/js/main.d77cc231.js"
   ]
 }
